@@ -1,0 +1,43 @@
+E-Commerce : Order Via WA
+
+1. ada 2 bagian : admin, visitor
+	bagian admin :
+		- login
+		- mengolah kategori :
+			- nama & desk
+		- mengolah barang :
+			- img (max 3)
+			- judul
+			- desk
+			- status stock (in stock/out stock)
+			- kategori
+		- mengolah banner (jika di klik menuju kategori/produk max 5) :
+			- img
+			- link to produk atau kategori
+		- informasi (data penjual, pembelian, pembayaran)
+			- logo toko, nama toko, slogan toko, alamat toko (pengiriman), kontak WA, IG, FB, YT
+			- cara melakukan pembelian
+			- cara melakukan pembayaran (list metode pembayaran) :
+				- Metode Pembayaran
+				- Akun Rekening Bank atau E-Wallet
+		- list pesanan masuk :
+			- template tolak order
+			- template tagihan
+			- template informasi proses
+			- template resi
+			- ubah pesanan
+			- tracking resi
+		- cek ongkir & resi/tracking
+	bagian visitor :
+		- Home :
+			- list produk (terbaru dan terlaris)
+			- ada banner
+			- kategori
+		- form pemesanan
+		- cek ongkir & resi/tracking
+		- tombol pesan (via WA)
+		- tombol tanya stock (via WA)
+		- informasi : 
+			- cara berbelanja
+			- cara bayar
+
